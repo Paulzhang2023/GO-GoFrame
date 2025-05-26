@@ -19,7 +19,7 @@
 
 </div>
 
-# 框架对经
+# 框架对比
 - 可以与Iris 进行对比：[https://github.com/Paulzhang2023/GO-iris]
 - 这两个都是优秀的GO框架，各有优缺点，可以让大家进行对比，以更好地进行选择。
 GoFrame 和 Iris这两个流行的 Go 语言框架。
