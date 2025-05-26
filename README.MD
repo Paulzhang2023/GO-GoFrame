@@ -108,14 +108,17 @@ GoFrame (gf) 和 Iris 都是功能丰富、性能出色的Go语言Web框架，�
 
 # GoFrame文档
 
-- GoFrame Official Site: [https://goframe.org](https://goframe.org)
+- GoFrame Official Site: https://goframe.org(https://goframe.org)
 - GoFrame Official Site(en): [https://goframe.org/en](https://goframe.org/en)
 - GoFrame Mirror Site(中文): [https://goframe.org.cn](https://goframe.org.cn)
 - GoFrame Mirror Site(github pages): [https://pages.goframe.org](https://pages.goframe.org)
 - GoDoc API: [https://pkg.go.dev/github.com/gogf/gf/v2](https://pkg.go.dev/github.com/gogf/gf/v2)
 
 # Iris文档
+- Iris电子图书:https://www.iris-go.com/#ebookDonateForm (https://www.iris-go.com/#ebookDonateForm)
+- Iris使用文档 https://pkg.go.dev/github.com/kataras/iris/v12@main (https://pkg.go.dev/github.com/kataras/iris/v12@main)
 
 # License
 
-`GoFrame` is licensed under the [MIT License](LICENSE), 100% free and open-source, forever.
+`GoFrame`采用 [MIT License](LICENSE), 100% free and open-source.
+`Iris`采用 BSD 3-clause license。
