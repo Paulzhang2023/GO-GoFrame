@@ -120,5 +120,6 @@ GoFrame (gf) 和 Iris 都是功能丰富、性能出色的Go语言Web框架，�
 
 # License
 
-`GoFrame`采用 [MIT License](LICENSE), 100% free and open-source.
-`Iris`采用 BSD 3-clause license。
+- `GoFrame`采用 [MIT License](LICENSE), 100% free and open-source.
+
+- `Iris`采用 BSD 3-clause license。
