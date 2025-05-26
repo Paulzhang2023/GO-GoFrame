@@ -1,28 +1,14 @@
 
 <div align=center>
-<img src="https://goframe.org/img/logo_full.png" width="300" alt="goframe gf logo"/>
-
-[![Go Reference](https://pkg.go.dev/badge/github.com/gogf/gf/v2.svg)](https://pkg.go.dev/github.com/gogf/gf/v2)
-[![GoFrame CI](https://github.com/gogf/gf/actions/workflows/ci-main.yml/badge.svg)](https://github.com/gogf/gf/actions/workflows/ci-main.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gogf/gf/v2)](https://goreportcard.com/report/github.com/gogf/gf/v2)
-[![Code Coverage](https://codecov.io/gh/gogf/gf/branch/master/graph/badge.svg)](https://codecov.io/gh/gogf/gf)
-[![Production Ready](https://img.shields.io/badge/production-ready-blue.svg?style=flat)](https://github.com/gogf/gf)
-[![License](https://img.shields.io/github/license/gogf/gf.svg?style=flat)](https://github.com/gogf/gf)
-
-[![Release](https://img.shields.io/github/v/release/gogf/gf?style=flat)](https://github.com/gogf/gf/releases)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/gogf/gf?style=flat)](https://github.com/gogf/gf/pulls)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/gogf/gf?style=flat)](https://github.com/gogf/gf/pulls?q=is%3Apr+is%3Aclosed)
-[![GitHub issues](https://img.shields.io/github/issues/gogf/gf?style=flat)](https://github.com/gogf/gf/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/gogf/gf?style=flat)](https://github.com/gogf/gf/issues?q=is%3Aissue+is%3Aclosed)
-![Stars](https://img.shields.io/github/stars/gogf/gf?style=flat)
-![Forks](https://img.shields.io/github/forks/gogf/gf?style=flat)
+Iris Web Framework
 
 </div>
 
-# 框架对比
-- 可以与Iris 进行对比：[https://github.com/Paulzhang2023/GO-iris]
-- 这两个都是优秀的GO框架，各有优缺点，可以让大家进行对比，以更好地进行选择。
+# 两种GO框架对比：
 GoFrame 和 Iris这两个流行的 Go 语言框架。
+- Iris：https://github.com/Paulzhang2023/GO-iris
+- GoFrame：https://github.com/Paulzhang2023/GO-GoFrame
+- 这两个都是优秀的GO框架，各有优缺点，可以让大家进行对比，以更好地进行选择。
 
 GoFrame (gf) 和 Iris 都是功能丰富、性能出色的Go语言Web框架，但它们在设计理念、核心特性、社区生态以及开发体验上有所不同。
 
