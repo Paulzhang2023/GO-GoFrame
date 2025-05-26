@@ -21,6 +21,10 @@
 
 A powerful framework for faster, easier, and more efficient project development.
 
+# 比较
+- 可以与iris 进行对比：[https://github.com/Paulzhang2023/GO-iris]
+- 这两个都是优秀的GO框架，各有优缺点，可以让大家进行对比，以更好地进行选择。
+
 
 # Documentation
 
