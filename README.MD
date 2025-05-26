@@ -1,8 +1,4 @@
 
-<div align=center>
-Iris Web Framework
-
-</div>
 
 # 两种GO框架对比：
 GoFrame 和 Iris这两个流行的 Go 语言框架。
